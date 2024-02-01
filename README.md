@@ -2,9 +2,6 @@
 source code for the song envelope tracking presented at INTERSPEECH 2023
 
 This is the code repository for the paper 
-*User-guided one-shot deep model adaptation for music source separation*
-by Giorgia Cantisani, Alexey Ozerov, Slim Essid, and Gaël Richard.
-
 _Investigating the cortical tracking of speech and music with sung speech_
 by Giorgia Cantisani, Amirhossein Chalehchaleh, Giovanni Di Liberto, Shihab Shamma
 presented at INTERSPEECH2023.
@@ -13,7 +10,7 @@ Cite as: Cantisani, G., Chalehchaleh, A., Di Liberto, G., Shamma, S. (2023) Inve
 
 #### Links
 - [Paper](https://www.isca-archive.org/interspeech_2023/cantisani23_interspeech.pdf)
-- [Data](soon)
+- [Data will be soon available](soon)
 
 Acknowledgment
 --------------
