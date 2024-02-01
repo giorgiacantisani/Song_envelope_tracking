@@ -10,7 +10,7 @@ Cite as: Cantisani, G., Chalehchaleh, A., Di Liberto, G., Shamma, S. (2023) Inve
 
 #### Links
 - [Paper](https://www.isca-archive.org/interspeech_2023/cantisani23_interspeech.pdf)
-- [Data]([soon](https://zenodo.org/records/10604361))
+- [Data](https://zenodo.org/records/10604361)
 
 Acknowledgment
 --------------
